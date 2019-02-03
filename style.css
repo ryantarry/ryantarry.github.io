@@ -1,0 +1,58 @@
+.body {
+    background-color: black;
+}
+
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+    background-color: black;
+    color: #FFF;
+    padding: 3% 0;
+    font-size: 1.2em;
+    border: 0;
+
+}
+
+.navbar-brand {
+    float: left;
+    min-height: 100px;
+    padding: 0px 20px 30px;
+}
+
+.navbar-inverse .navbar-nav .active a,
+.navbar-inverse .navbar-nav .active a:focus .navbar-inverse .navbar-nav .active a:hover {
+    color: #FFF;
+    background-color: black;
+}
+
+.navbar-inverse .navbar-nav li a {
+    color: #D5D5D5;
+}
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+    width: 100%;
+}
+
+.content {
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+}
+
+.footer {
+    text-align: center;
+    color: antiquewhite;
+}
+.contact-title{
+    text-align: center;
+    color: white;
+}
+.contact-page{
+    text-align: center;
+    color: white;
+}
+.about-content{
+    text-align: center;
+    color:white;
+}
